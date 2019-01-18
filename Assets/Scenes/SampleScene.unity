@@ -757,7 +757,7 @@ GameObject:
   - component: {fileID: 1985096210}
   - component: {fileID: 1985096215}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: SampleHeartbeat
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
