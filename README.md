@@ -1,4 +1,4 @@
-# HeartbeatOpenScrip-Unity
+# HeartbeatOpenScript-Unity
 This is an Experiment made with Unity (not endorsed), that talks about how do we able to simulate heartbeat sound on a living based on beating section (i.e. Systole and Diastole, in this planet and other Original characters that inherits this principle).
 
 ## Why?
